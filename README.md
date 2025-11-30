@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eevp88&label=Profile%20views&color=0e75b6&style=flat" alt="eevp88" /> </p>
 
-- 🌱 Actualmente estoy Aprendiendo **Go, Astro , NestJs, Java(recordando)**
+- 🌱 Actualmente estoy Aprendiendo **Go, Astro, NestJs, Java(recordando)**
 
 - 👨‍💻 Mi sitio Web es [https://enzovera.dev](https://enzovera.dev)
 
