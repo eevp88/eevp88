@@ -9,7 +9,7 @@
 
 - 📫 ¿Como contactarme? **contacto@enzovera.dev**
 
-- ⚡ Dato Curioso **Me gusta andar en bicicleta y jugar basketball**
+- ⚡ Dato Curioso **Me gusta andar en bicicleta y jugar basketball, aunque la espalda no me lo permite**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
