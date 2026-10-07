@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Enzo Edgardo Vera Pagnard</h1>
 <h3 align="center">Ingeniero Civil en Informáica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eevp88&label=Profile%20views&color=0e75b6&style=flat" alt="eevp88" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=eevp88&label=Profile%20views&color=0e75b6&style=flat" alt="eevp88" /> </p -->
 
 - 🌱 Actualmente estoy Aprendiendo **Go, Astro, NestJs, Java(recordando)**
 
